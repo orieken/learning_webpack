@@ -1,4 +1,4 @@
-Getting Started from webpack.github.io 
+Getting Started from webpack.github.io
 ----
 
 
